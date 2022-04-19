@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ceb4c9e-961a-4f9c-aae2-024a3410b25b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Print your name/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Print your name/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/src/bot/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/src/bot/SimpleBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Increment and decrement/Decrement all/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Increment and decrement/Decrement all/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Increment and decrement/Decrement all/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Increment and decrement/Decrement all/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Increment and decrement/Increasing a variable by one/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Increment and decrement/Increasing a variable by one/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/Hello_/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/Hello_/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/Hello_/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/Hello_/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Overview of the basic program/Hello, Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Overview of the basic program/Hello, Java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Overview of the basic program/Hello, Java/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Overview of the basic program/Hello, Java/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Printing data/First, second, third/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Printing data/First, second, third/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Printing data/First, second, third/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Printing data/First, second, third/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Printing data/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Printing data/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Relational operators/Check the sum/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Relational operators/Check the sum/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Relational operators/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Relational operators/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Types and variables/Fill the declaration/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Types and variables/Fill the declaration/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Types and variables/Fill the declaration/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Types and variables/Fill the declaration/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/data/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/data/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/data/model/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/data/model/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/data/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/data/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/data/model/UserUpdateForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/data/model/UserUpdateForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/data/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/data/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/src/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/src/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/test/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/test/data/repository/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/test/data/repository/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/test/model/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/test/model/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank_app/test/util/UtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_app/test/util/UtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dairyPhiles/src/dairyProject/Diary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dairyPhiles/src/dairyProject/Diary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dairyPhiles/src/dairyProject/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dairyPhiles/src/dairyProject/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dairyPhiles/test/dairyProjectTest/DiaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dairyPhiles/test/dairyProjectTest/DiaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eStore/eStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../eStore/eStore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eStore/src/eStoreProject/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eStore/src/eStoreProject/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eStore/src/eStoreProject/BillingInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eStore/src/eStoreProject/BillingInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eStore/src/eStoreProject/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eStore/src/eStoreProject/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eStore/src/eStoreProject/EStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eStore/src/eStoreProject/EStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eStore/src/eStoreProject/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eStore/src/eStoreProject/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/src/arrayList/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/src/arrayList/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/src/myerBriggsQuestionnaire/MyerBriggs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/src/myerBriggsQuestionnaire/MyerBriggs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/src/tictactoeGame/Ticktacktoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/src/tictactoeGame/Ticktacktoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/src/tictactoeGame/TicktacktoeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/src/tictactoeGame/TicktacktoeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/src/tictactoeGame/XAndO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/src/tictactoeGame/XAndO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/test/arrayListTest/MyArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/test/arrayListTest/MyArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/test/myerBriggsTest/MyerBriggsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/test/myerBriggsTest/MyerBriggsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myArrayLiist/test/tictactoeGame/TicTacToe2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myArrayLiist/test/tictactoeGame/TicTacToe2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/out/production/sendAmApp/africa/semicolon/sendAm/data/models/Package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/out/production/sendAmApp/africa/semicolon/sendAm/data/models/PackageDescription.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/out/production/sendAmApp/africa/semicolon/sendAm/data/models/Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/out/production/sendAmApp/africa/semicolon/sendAm/data/models/Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/out/production/sendAmApp/africa/semicolon/sendAm/data/repositories/PackageRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/out/production/sendAmApp/africa/semicolon/sendAm/data/repositories/PackageRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/sendAmApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/sendAmApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/PackageDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/PackageDescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/models/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/PackageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/PackageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/PackageRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/PackageRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/data/repositories/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/dtos/requests/RegisterUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/dtos/requests/RegisterUserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/dtos/responses/RegisterUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/dtos/responses/RegisterUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/exceptions/RegisterFailureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/exceptions/RegisterFailureException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/exceptions/SendAmAppException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/exceptions/SendAmAppException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/PackageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/PackageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/PackageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/PackageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/UserServiceImpli.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/src/africa/semicolon/sendAm/services/UserServiceImpli.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27s5GHwgKe9XOE0sp1eaRwT3M8w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\urlShortnerService\src\main\resources" />
+      <recent name="C:\Users\ADMIN\IdeaProjects\urlShortnerService\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ContractUrlTest.saveContactTest">
+    <configuration name="ContractUrlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositories" />
+      <option name="MAIN_CLASS_NAME" value="repositories.ContractUrlTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContractUrlTest.saveContactTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repositories" />
+      <option name="MAIN_CLASS_NAME" value="repositories.ContractUrlTest" />
+      <option name="METHOD_NAME" value="saveContactTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contractUrl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="contractUrl.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContractUrlTest.saveContactTest" />
+        <item itemvalue="JUnit.ContractUrlTest" />
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ceb4c9e-961a-4f9c-aae2-024a3410b25b" name="Changes" comment="" />
+      <created>1650095863133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650095863133</updated>
+      <workItem from="1650095872142" duration="20409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
