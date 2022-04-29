@@ -5,8 +5,10 @@ import contractUrl.data.repositories.UrlRepository;
 import org.assertj.core.internal.bytebuddy.matcher.ElementMatcher;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.data.mongo.DataMongoTest;
 
+import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.internal.bytebuddy.matcher.ElementMatchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -17,8 +19,10 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class ContractUrlTest {
 
-    @InjectMocks
+
     private UrlRepository repository;
+
+
 
     @Test
     public void saveContactTest(){
@@ -34,9 +38,9 @@ public class ContractUrlTest {
         assertEquals(1,repository.count());
 
     }
-
     private void assertThat(String id, ElementMatcher.Junction<Object> objectJunction) {
     }
+
 
 
     @Test
