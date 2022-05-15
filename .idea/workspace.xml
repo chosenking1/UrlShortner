@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ceb4c9e-961a-4f9c-aae2-024a3410b25b" name="Changes" comment="first">
+    <list default="true" id="5ceb4c9e-961a-4f9c-aae2-024a3410b25b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/contractUrl/data/repositories/UrlRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/contractUrl/services/UrlServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" afterDir="false" />
@@ -86,13 +88,11 @@
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/repositories/ContractUrlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/repositories/ContractUrlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/dtos/requests/RegisterUrlRequest$AddContactRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/dtos/requests/RegisterUrlRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/dtos/requests/RegisterUrlRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/dtos/responses/FindUrlResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/dtos/responses/FindUrlResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/services/UrlServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/services/UrlServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/models/SaveUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/data/models/SaveUrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UrlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UrlRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/repositories/ContractUrlTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/data/repositories/UrlRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/data/repositories/UrlRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/repositories/ContractUrlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/repositories/ContractUrlTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +104,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -121,7 +122,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/ADMIN/IdeaProjects/diary-app-master",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "36a2b66e0841304ea60453445079a103"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -129,11 +139,18 @@
       <recent name="C:\Users\ADMIN\IdeaProjects\urlShortnerService\src\main\resources" />
       <recent name="C:\Users\ADMIN\IdeaProjects\urlShortnerService\src\main\java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="contractUrl.data.repositories" />
+      <recent name="contractUrl.services" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="repositories" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
+  <component name="RunManager" selected="JUnit.UrlRepositoryTest.findSiteBySiteIdTest">
     <configuration name="ContractUrlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="urlShortnerService" />
       <extension name="coverage">
@@ -165,6 +182,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UrlRepositoryTest.findSiteBySiteIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contractUrl.data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contractUrl.data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="contractUrl.data.repositories.UrlRepositoryTest" />
+      <option name="METHOD_NAME" value="findSiteBySiteIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contractUrl.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contractUrl.services" />
+      <option name="MAIN_CLASS_NAME" value="contractUrl.services.UrlServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -191,9 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Main" />
-        <item itemvalue="JUnit.ContractUrlTest.saveContactTest" />
+        <item itemvalue="JUnit.UrlRepositoryTest.findSiteBySiteIdTest" />
         <item itemvalue="JUnit.ContractUrlTest" />
+        <item itemvalue="JUnit.UrlServiceImplTest" />
+        <item itemvalue="JUnit.ContractUrlTest.saveContactTest" />
+        <item itemvalue="Spring Boot.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +259,8 @@
       <workItem from="1650551611260" duration="1461000" />
       <workItem from="1650624553523" duration="1782000" />
       <workItem from="1651134329219" duration="3647000" />
-      <workItem from="1651144843519" duration="5806000" />
+      <workItem from="1651144843519" duration="6583000" />
+      <workItem from="1652607761194" duration="8088000" />
     </task>
     <servers />
   </component>
@@ -229,6 +280,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

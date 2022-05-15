@@ -11,7 +11,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @NoArgsConstructor
 public class SaveUrl {
     @Id
-    private String siteId;
+    private String id;
 
     @NonNull
     private String websiteUrl;
@@ -22,8 +22,4 @@ public class SaveUrl {
     @NonNull
     private String contractedUrl;
 
-
-    public String getId() {
-        return siteId;
-    }
 }

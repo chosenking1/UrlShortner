@@ -8,7 +8,6 @@ import java.util.List;
 
 @Repository
 public interface UrlRepository extends MongoRepository<SaveUrl,String> {
-    List<SaveUrl> findContactBySiteId(String siteId);
     List<SaveUrl> findContactByContractedUrl(String contactedUrl);
     List<SaveUrl> findContactBySiteIdAndContractedUrl(String siteId, String contactedUrl);
 }
