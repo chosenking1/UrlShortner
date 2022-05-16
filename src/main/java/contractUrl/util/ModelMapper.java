@@ -1,27 +1,28 @@
 package contractUrl.util;
 
-import contractUrl.data.models.SaveUrl;
+import contractUrl.data.models.Url;
 import contractUrl.dtos.requests.RegisterUrlRequest;
 import contractUrl.dtos.responses.FindUrlResponse;
 import contractUrl.dtos.responses.RegisterUrlResponse;
 
 public class ModelMapper {
-    public static SaveUrl map(RegisterUrlRequest request) {
-        SaveUrl theContact = new SaveUrl();
-        theContact.setWebsiteName(request.getWebsiteName());
-        theContact.setWebsiteUrl(request.getWebsiteUrl());
+    public static Url map(RegisterUrlRequest request) {
+        Url theUrlDetails = new Url();
+        theUrlDetails.setWebsiteName(request.getWebsiteName());
+        theUrlDetails.setWebsiteUrl(request.getWebsiteUrl());
+        theUrlDetails.setContractedUrl(request.getContractedUrl());
 
-        return theContact;
+        return theUrlDetails;
     }
-    public static RegisterUrlResponse map (SaveUrl theUrl){
+    public static RegisterUrlResponse map (Url theUrl){
         RegisterUrlResponse response = new RegisterUrlResponse();
         response.setWebsiteName(theUrl.getWebsiteName());
         response.setWebsiteUrl(theUrl.getWebsiteUrl());
-        response.setContractedUrl("Contact Saved");
+//        response.setContractedUrl("Contact Saved");
         return response;
     }
 
-    public static FindUrlResponse contractedUrlToFindContractedUrl(SaveUrl url) {
+    public static FindUrlResponse contractedUrlToFindContractedUrl(Url url) {
         FindUrlResponse response = new FindUrlResponse();
         response.setWebsiteName(url.getWebsiteName());
         response.setWebsiteUrl(url.getWebsiteUrl());

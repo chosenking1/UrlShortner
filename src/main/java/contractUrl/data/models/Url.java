@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @EqualsAndHashCode
 @Document("Urls")
 @NoArgsConstructor
-public class SaveUrl {
+public class Url {
     @Id
     private String id;
 

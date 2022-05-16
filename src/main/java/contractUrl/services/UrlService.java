@@ -13,6 +13,8 @@ public interface UrlService {
     UrlRepository getRepository();
 
 
-    List<FindUrlResponse> findContactByContractedUrl(String contractedUrl);
+    List<FindUrlResponse> findUrlByContractedUrl(String contractedUrl);
+
+
 //    RegisterUrlResponse deleteContact(String name, String mobile);
 }
