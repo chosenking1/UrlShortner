@@ -18,7 +18,7 @@ public class ModelMapper {
         RegisterUrlResponse response = new RegisterUrlResponse();
         response.setWebsiteName(theUrl.getWebsiteName());
         response.setWebsiteUrl(theUrl.getWebsiteUrl());
-//        response.setContractedUrl("Contact Saved");
+        response.setContractedUrl(theUrl.getContractedUrl());
         return response;
     }
 

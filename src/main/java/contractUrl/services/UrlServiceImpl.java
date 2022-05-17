@@ -34,7 +34,7 @@ public class UrlServiceImpl implements UrlService {
 
          SecureRandom random2 = new SecureRandom();
 
-        for (int i = 0; i < 12; i++) {
+        for (int i = 0; i < 6; i++) {
 
             int alphabet = random.nextInt(26) + 97;
             int number = random.nextInt(10);
@@ -62,6 +62,9 @@ private String contractedUrl;
 
     @Override
     public List<FindUrlResponse> findUrlByContractedUrl(String contractedUrl) {
+//        List<Url> site = findUrlByContractedUrl(contractedUrl);
+
+
         return null;
     }
 

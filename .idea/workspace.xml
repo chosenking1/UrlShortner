@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ceb4c9e-961a-4f9c-aae2-024a3410b25b" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" afterDir="false" />
@@ -87,25 +86,15 @@
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/models/SaveUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/data/models/Url.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UrlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UrlRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUrlRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUrlRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/FindUrlResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/FindUrlResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/controllers/PackageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/controllers/UrlController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/models/Url.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/data/models/Url.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UserRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/util/ModelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/util/ModelMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/contractUrl/data/repositories/UrlRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contractUrl/data/repositories/UrlRepositoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/contractUrl/services/UrlServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contractUrl/services/UrlServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/data/models/SaveUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/data/repositories/UrlRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/data/repositories/UrlRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/dtos/responses/FindUrlResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/dtos/responses/FindUrlResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/services/UrlService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/services/UrlServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/repositories/ContractUrlTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/dtos/requests/RegisterUrlRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/dtos/requests/RegisterUrlRequest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,22 +152,7 @@
       <recent name="repositories" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UrlServiceImplTest.saveUrl">
-    <configuration name="ContractUrlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="urlShortnerService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="repositories.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="repositories" />
-      <option name="MAIN_CLASS_NAME" value="repositories.ContractUrlTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UrlServiceImplTest">
     <configuration name="UrlRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="urlShortnerService" />
       <extension name="coverage">
@@ -206,6 +180,21 @@
       <option name="MAIN_CLASS_NAME" value="contractUrl.data.repositories.UrlRepositoryTest" />
       <option name="METHOD_NAME" value="findSiteBySiteIdTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contractUrl.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contractUrl.services" />
+      <option name="MAIN_CLASS_NAME" value="contractUrl.services.UrlServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UrlServiceImplTest" />
         <item itemvalue="JUnit.UrlServiceImplTest.saveUrl" />
-        <item itemvalue="JUnit.UrlRepositoryTest.findSiteBySiteIdTest" />
         <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="JUnit.UrlRepositoryTest.findSiteBySiteIdTest" />
         <item itemvalue="JUnit.UrlRepositoryTest" />
-        <item itemvalue="JUnit.ContractUrlTest" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +264,7 @@
       <workItem from="1651144843519" duration="6583000" />
       <workItem from="1652607761194" duration="8088000" />
       <workItem from="1652654166626" duration="5563000" />
-      <workItem from="1652695650988" duration="11265000" />
+      <workItem from="1652695650988" duration="19542000" />
     </task>
     <servers />
   </component>
