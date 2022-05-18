@@ -24,8 +24,9 @@ public class ModelMapper {
 
     public static FindUrlResponse contractedUrlToFindContractedUrl(Url url) {
         FindUrlResponse response = new FindUrlResponse();
-        response.setWebsiteName(url.getWebsiteName());
+//        response.setWebsiteName(url.getWebsiteName());
         response.setWebsiteUrl(url.getWebsiteUrl());
+
 
         return response;
     }

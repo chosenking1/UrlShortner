@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.security.SecureRandom;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
@@ -21,18 +22,35 @@ public class UrlServiceImpl implements UrlService {
 
     @Override
     public RegisterUrlResponse saveUrl(RegisterUrlRequest request) {
-
-        request.setContractedUrl(contractedUrlGenerator());
+    if (request.getContractedUrl() == null){
+        request.setContractedUrl(contractedUrlGenerator());}
        Url url = ModelMapper.map(request);
-//        url.setContractedUrl(contractedUrlGenerator());
+
         Url url1 = urlRepository.save(url);
         return ModelMapper.map(url1);
     }
 
+
+    @Override
+    public List<FindUrlResponse> findUrlByContractedUrl(String contractedUrl) {
+        List<Url> urls = urlRepository.findContactByContractedUrl(contractedUrl);
+        if (urls.isEmpty()) throw new IllegalArgumentException(contractedUrl + "not found");
+        List<FindUrlResponse> responses = new ArrayList<>();
+
+        urls.forEach(site -> {
+            responses.add(new FindUrlResponse(site));
+        });
+        return responses;
+
+    }
+    @Override
+    public UrlRepository getRepository() {
+        return urlRepository;
+    }
     private String contractedUrlGenerator() {
         Random random = new Random();
 
-         SecureRandom random2 = new SecureRandom();
+        SecureRandom random2 = new SecureRandom();
 
         for (int i = 0; i < 6; i++) {
 
@@ -45,9 +63,10 @@ public class UrlServiceImpl implements UrlService {
             }
 
         }
-            return contractedUrl;
+
+        return contractedUrl;
     }
-private String contractedUrl;
+    private String contractedUrl;
     private void setContractedUrl(char alphabet) {
         contractedUrl += alphabet;
     }
@@ -55,18 +74,9 @@ private String contractedUrl;
     contractedUrl += number;
     }
 
-    @Override
-    public UrlRepository getRepository() {
-        return urlRepository;
-    }
-
-    @Override
-    public List<FindUrlResponse> findUrlByContractedUrl(String contractedUrl) {
-//        List<Url> site = findUrlByContractedUrl(contractedUrl);
 
 
-        return null;
-    }
+
 
 
 }
