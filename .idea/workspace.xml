@@ -87,13 +87,7 @@
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUserRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/FindUrlResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/FindUrlResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/RegisterUserResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/exceptions/UserNotFoundException.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/util/ModelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/util/ModelMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/contractUrl/dtos/responses/FindUrlResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contractUrl/dtos/responses/FindUrlResponse.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,22 +114,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/ADMIN/IdeaProjects/diary-app-master",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "36a2b66e0841304ea60453445079a103"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/diary-app-master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;36a2b66e0841304ea60453445079a103&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\IdeaProjects\urlShortnerService\src\main\resources" />
@@ -265,6 +259,8 @@
       <workItem from="1652607761194" duration="8088000" />
       <workItem from="1652654166626" duration="5563000" />
       <workItem from="1652695650988" duration="28972000" />
+      <workItem from="1652846300203" duration="1781000" />
+      <workItem from="1652996026636" duration="5753000" />
     </task>
     <servers />
   </component>

@@ -43,10 +43,12 @@ public class UrlServiceImpl implements UrlService {
         return responses;
 
     }
+
     @Override
     public UrlRepository getRepository() {
         return urlRepository;
     }
+
     private String contractedUrlGenerator() {
         Random random = new Random();
 
@@ -61,9 +63,7 @@ public class UrlServiceImpl implements UrlService {
                 case 1 -> setContractedUrl((char) alphabet);
                 case 2 -> setContractedUrl(number);
             }
-
         }
-
         return contractedUrl;
     }
     private String contractedUrl;
