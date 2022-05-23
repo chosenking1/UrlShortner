@@ -87,7 +87,7 @@
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUrlRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUrlRequest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,6 +261,7 @@
       <workItem from="1652695650988" duration="28972000" />
       <workItem from="1652846300203" duration="1781000" />
       <workItem from="1652996026636" duration="5753000" />
+      <workItem from="1653123041905" duration="4545000" />
     </task>
     <servers />
   </component>
