@@ -86,8 +86,16 @@
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/PackageRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sendAmApp/test/africa/semicolon/sendAm/data/repositories/UserServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UrlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/data/repositories/UrlRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUrlRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/requests/RegisterUrlRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/RegisterUrlResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/dtos/responses/RegisterUrlResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/services/UrlServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contractUrl/util/ModelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contractUrl/util/ModelMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/contractUrl/data/repositories/UrlRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contractUrl/data/repositories/UrlRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/contractUrl/services/UrlServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/contractUrl/services/UrlServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,22 +154,7 @@
       <recent name="repositories" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Main">
-    <configuration name="UrlRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="urlShortnerService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="contractUrl.data.repositories.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="contractUrl.data.repositories" />
-      <option name="MAIN_CLASS_NAME" value="contractUrl.data.repositories.UrlRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UrlServiceImplTest.saveUrl">
     <configuration name="UrlRepositoryTest.findSiteBySiteIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="urlShortnerService" />
       <extension name="coverage">
@@ -173,6 +166,22 @@
       <option name="PACKAGE_NAME" value="contractUrl.data.repositories" />
       <option name="MAIN_CLASS_NAME" value="contractUrl.data.repositories.UrlRepositoryTest" />
       <option name="METHOD_NAME" value="findSiteBySiteIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlRepositoryTest.testThatRepoIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="urlShortnerService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contractUrl.data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contractUrl.data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="contractUrl.data.repositories.UrlRepositoryTest" />
+      <option name="METHOD_NAME" value="testThatRepoIsNotNull" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -235,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UrlServiceImplTest.saveUrl" />
+        <item itemvalue="JUnit.UrlRepositoryTest.testThatRepoIsNotNull" />
         <item itemvalue="Spring Boot.Main" />
         <item itemvalue="JUnit.UrlServiceImplTest" />
-        <item itemvalue="JUnit.UrlServiceImplTest.saveUrl" />
         <item itemvalue="JUnit.UrlRepositoryTest.findSiteBySiteIdTest" />
-        <item itemvalue="JUnit.UrlRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +270,8 @@
       <workItem from="1652695650988" duration="28972000" />
       <workItem from="1652846300203" duration="1781000" />
       <workItem from="1652996026636" duration="5753000" />
-      <workItem from="1653123041905" duration="4545000" />
+      <workItem from="1653123041905" duration="7676000" />
+      <workItem from="1653376165437" duration="8853000" />
     </task>
     <servers />
   </component>

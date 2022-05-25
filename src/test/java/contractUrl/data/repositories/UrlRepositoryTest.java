@@ -46,6 +46,12 @@ class UrlRepositoryTest {
        assertEquals(foundUrl.get().getWebsiteUrl(), "test.com");
     }
 
+
+    @Test
+    void testThatRepoIsNotNull(){
+        assertNotNull(urlRepository);
+    }
+
     @Test
     void findContactByContractedUrl() {
     }

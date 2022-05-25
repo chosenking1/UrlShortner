@@ -16,6 +16,7 @@ public class ModelMapper {
     }
     public static RegisterUrlResponse map (Url theUrl){
         RegisterUrlResponse response = new RegisterUrlResponse();
+        response.setId(theUrl.getId());
         response.setWebsiteName(theUrl.getWebsiteName());
         response.setWebsiteUrl(theUrl.getWebsiteUrl());
         response.setContractedUrl(theUrl.getContractedUrl());
